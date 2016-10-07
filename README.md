@@ -1,8 +1,8 @@
-Dotfiles (Pongstr)
-========
-
+Dotfiles 
+==============================
+credits to Pongstr & silverbux
 version `0.1.14`
-
+==============================
 ### Requirements
 
 **[Xcode](https://developer.apple.com/xcode/)** &amp; **[Command Line Tools](https://developer.apple.com/downloads)**
@@ -11,7 +11,7 @@ version `0.1.14`
 
 ```bash
 # download latest from Github
-$ curl -L -O https://github.com/silverbux/dotfiles/archive/master.zip
+$ curl -L -O https://github.com/happicamper/dotfiles/archive/master.zip
 
 # unzip the file and move to $HOME directory
 unzip master.zip && mv dotfiles-master ~/.dotfiles
